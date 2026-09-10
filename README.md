@@ -1,31 +1,54 @@
-# Zypher
+<div align="center">
 
-Building systems from the metal up.  
-OS kernels, local AI runtimes, and the occasional crypto experiment.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:0f0f23&height=180&section=header&text=ZYPHER&fontSize=52&fontColor=e0e0e0&fontAlignY=35&desc=systems%20%7C%20kernels%20%7C%20local%20ai&descAlignY=55&descSize=16" width="100%"/>
 
-Not interested in tutorials or “hello world” energy.  
-I dig into the parts most people abstract away.
+<br>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=1200&color=c9c9c9&center=true&vCenter=true&width=680&lines=Building+from+the+metal+up.;OS+kernels+%26+local+AI+runtimes.;No+cloud.+No+abstraction.+Just+control." alt="Typing SVG" />
 
-### What I’m usually working on
+<br><br>
 
-- **Operating systems & low-level** — hobby kernels, bootloaders, custom Linux environments (Hyprland, full Balkan/Serbian layout support, the works)
-- **Local AI infrastructure** — runtimes for running and optimizing models without shipping everything to the cloud
-- **Systems programming** — C, C++, Assembly, a bit of Python when it makes sense
-- **Side experiments** — crypto simulators, terminal tools, small games
+<img src="https://img.shields.io/badge/systems-kernel-0d0d0d?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/ai-local_runtime-1a1a2e?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/low_level-C%2FC%2B%2B%2FASM-0f0f23?style=for-the-badge&logo=c&logoColor=white"/>
 
----
-
-### Current focus
-
-Most of my time goes into understanding how things actually work under the hood.  
-If it can be rewritten, optimized, or run offline — I’m probably interested.
+</div>
 
 ---
 
-### Contact
+<div align="center">
 
-Prefer issues / PRs on the relevant repos.  
-DMs are fine if it’s something specific.
+### currently in the lab
 
+</div>
+
+```text
+┌────────────────────────────────────────────────────────────┐
+│  FluxOS          →  custom x86 OS from scratch             │
+│  NeuralForge     →  local AI model runtime & optimizer      │
+│  Core-kernel     →  assembly + cpp kernel experiments      │
+│  MineByte        →  crypto simulator                       │
+└────────────────────────────────────────────────────────────┘
+
+
+stack
+
+
+
+
+
+
+github pulse
+
+
+
+
+
+
+
+
+
+
+no cloud dependence. no unnecessary abstraction.
+
+just systems that actually belong to you
