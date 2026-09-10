@@ -1,40 +1,59 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:0f0f23&height=180&section=header&text=ZYPHER&fontSize=52&fontColor=e0e0e0&fontAlignY=35&desc=systems%20%7C%20kernels%20%7C%20local%20ai&descAlignY=55&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:0a0a12&height=2&section=header"/>
+</div>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=1200&color=c9c9c9&center=true&vCenter=true&width=680&lines=Building+from+the+metal+up.;OS+kernels+%26+local+AI+runtimes.;No+cloud.+No+abstraction.+Just+control." alt="Typing SVG" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/systems-kernel-0d0d0d?style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/ai-local_runtime-1a1a2e?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/low_level-C%2FC%2B%2B%2FASM-0f0f23?style=for-the-badge&logo=c&logoColor=white"/>
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=28&duration=3200&pause=1800&color=d4d4d4&center=true&vCenter=true&width=700&lines=ZYPHER;systems+from+the+metal;kernels+%7C+local+ai+%7C+control" alt="typing"/>
 </div>
+
+<br>
+
+<div align="center">
+  <code>no cloud dependence · no unnecessary abstraction · just ownership</code>
+</div>
+
+<br>
 
 ---
 
+<br>
+
 <div align="center">
+  <h3>CURRENT WORK</h3>
+</div>
+FluxOS ............... custom x86 OS + GUI, multitasking, ELF
+NeuralForge .......... local AI runtime & model optimization
+Core-kernel .......... experimental kernel (asm + cpp + c)
+MineByte ............. crypto simulator
+text<br>
 
-### currently in the lab
-
+<div align="center">
+  <h3>STACK</h3>
+  <br>
+  <img src="https://skillicons.dev/icons?i=c,cpp,linux,python,bash,git&theme=dark&perline=6"/>
 </div>
 
-```text
-┌────────────────────────────────────────────────────────────┐
-│  FluxOS          →  custom x86 OS from scratch             │
-│  NeuralForge     →  local AI model runtime & optimizer      │
-│  Core-kernel     →  assembly + cpp kernel experiments      │
-│  MineByte        →  crypto simulator                       │
-└────────────────────────────────────────────────────────────┘
+<br>
 
+---
 
-stack
+<br>
 
-github pulse
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Zypher0903&show_icons=true&theme=radical&hide_border=true&bg_color=050505&title_color=d4d4d4&icon_color=888888&text_color=b0b0b0&ring_color=333333"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zypher0903&layout=compact&theme=radical&hide_border=true&bg_color=050505&title_color=d4d4d4&text_color=b0b0b0"/>
+</div>
 
-no cloud dependence. no unnecessary abstraction.
+<br>
 
-just systems that actually belong to you
+---
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:0a0a12&height=2&section=footer"/>
+  <br><br>
+  <sub>built offline when possible · runs on my terms</sub>
+</div>
