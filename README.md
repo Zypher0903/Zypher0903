@@ -33,21 +33,7 @@
 
 stack
 
-
-
-
-
-
 github pulse
-
-
-
-
-
-
-
-
-
 
 no cloud dependence. no unnecessary abstraction.
 
