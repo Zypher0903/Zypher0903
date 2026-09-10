@@ -51,8 +51,8 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zypher0903&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=e0e0e0&icon_color=a0a0a0&text_color=c0c0c0" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zypher0903&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=e0e0e0&text_color=c0c0c0" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Zypher0903&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=e0e0e0&icon_color=a0a0a0&text_color=c0c0c0" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Zypher0903&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=e0e0e0&text_color=c0c0c0" height="165"/>
 
 </div>
 
@@ -68,4 +68,5 @@
 just systems that actually belong to you.
 
 </div>
+
 
